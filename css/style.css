@@ -1,3 +1,8 @@
+.test {
+  display: -ms-flexbox;
+  display: flex;
+}
+
 h1 {
   color: blue;
 }
@@ -9,5 +14,4 @@ h1 {
 .text p {
   text-align: center;
 }
-
 /*# sourceMappingURL=style.css.map */
