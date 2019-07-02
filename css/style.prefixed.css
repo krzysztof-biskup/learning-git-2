@@ -1,16 +1,12 @@
-p {
-  display: -ms-flexbox;
-  display: flex;
-}
-
 h1 {
   color: blue;
 }
 
-.test {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+.text {
+  text-align: center;
+}
+
+.text p {
+  text-align: center;
 }
 /*# sourceMappingURL=style.prefixed.css.map */
