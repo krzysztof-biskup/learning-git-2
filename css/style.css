@@ -1,11 +1,14 @@
-body {
-    display: flex;
-    justify-content: center;
+p {
+  display: flex;
 }
-.container {
-    width: 600px;
-    text-align: center;
+
+h1 {
+  color: blue;
 }
-.text h1{
-    color: blue;
+
+.test {
+  display: flex;
+  flex-wrap: wrap;
 }
+
+/*# sourceMappingURL=style.css.map */
